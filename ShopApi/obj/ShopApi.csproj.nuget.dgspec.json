@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\shopapi\\ShopApi.csproj": {}
+    "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\ShopApi\\ShopApi.csproj": {}
   },
   "projects": {
-    "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\shopapi\\ShopApi.csproj": {
+    "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\ShopApi\\ShopApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\shopapi\\ShopApi.csproj",
+        "projectUniqueName": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\ShopApi\\ShopApi.csproj",
         "projectName": "ShopApi",
-        "projectPath": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\shopapi\\ShopApi.csproj",
+        "projectPath": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\ShopApi\\ShopApi.csproj",
         "packagesPath": "C:\\Users\\KarmaicomMartinsdaRo\\.nuget\\packages\\",
-        "outputPath": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\shopapi\\obj\\",
+        "outputPath": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\ShopApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

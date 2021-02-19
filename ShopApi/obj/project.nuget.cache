@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ix7uxIc92o83Wh6Y4stPnOmv/WwI8EVrDB2NB25QJwR0Q8MEisjiWtuN1j60Llr2PLnB2WptSyMItPUMrOqTCg==",
+  "dgSpecHash": "O/N/7ldG/36+DUqbKNuNTV3MT/DKY4Ry/iQr6rjJgsmM7fzaj144OYfsJEDqNXS0kijOvQfpgLSNKvN/l1zsug==",
   "success": true,
-  "projectFilePath": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\shopapi\\ShopApi.csproj",
+  "projectFilePath": "C:\\ws-dotnet\\balta\\api_data_driven\\Shop\\ShopApi\\ShopApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KarmaicomMartinsdaRo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\KarmaicomMartinsdaRo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
